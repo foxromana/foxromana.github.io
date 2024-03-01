@@ -1,0 +1,59 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/code-project.jpg",
+            "title": "Development",
+            "bodyText": "Coming Soon",
+            "links": [
+            ],
+            "tags" : [
+                "C++",
+                "MFC",
+                "OpenGL",
+                "GDI+",
+                "JUCE"
+            ]
+        },
+        {
+            "image" : "images/projects/fox-romana-project.jpg",
+            "title": "Music",
+            "bodyText": "Music album released under my artist name, **Fox Romana**\n",
+            "links": [
+                {
+                    "text": "Instagram",
+                    "href": "https://www.instagram.com/fox.romana.music/"
+                },
+                {
+                    "text": "Spotify",
+                    "href": "https://open.spotify.com/artist/6tR6z6ay5UOCUBByO6dkSP?si=EzDEWSn7Rce-lbPgVvsN9A"
+                },
+                {
+                    "text": "Apple Music",
+                    "href": "https://music.apple.com/kr/artist/fox-romana/1612385017"
+                },
+                {
+                    "text": "SoundCloud",
+                    "href": "https://soundcloud.com/foxromana"
+                }
+            ],
+            "tags" : [
+                "logic Pro X"
+            ]
+        },
+        {
+            "image" : "images/projects/fox-romana-photography.jpg",
+            "title": "Photography",
+            "bodyText": "Music album released under my artist name, **Fox Romana**\n",
+            "links": [
+                {
+                    "text": "Instagram",
+                    "href": "https://www.instagram.com/fox.romana.photo/"
+                }
+            ],
+            "tags" : [
+                "Leica Q","e-m5", "Lightroom", "Photoshop"
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Boeing Korea",
+            "workType": "Full-time",
+            "workDescription": [
+                "sysMBD SK development"
+            ],
+            "dateText": "01/2019 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Korean Air R&D Center",
+            "workType": "Full-time",
+            "workDescription": [
+                " Avionics Software Team (2017.07 - 2018.12)",
+                "UAV System Team (2013.08 - 2017.06)"
+            ],
+            "dateText": "08/2013 – 12/2018"
+        },
+        {
+            "title": "Development Intern",
+            "subtitle": "CCGVR",
+            "workType": "Internship",
+            "workDescription": [
+                "Center for Computer Graphics and Virtual Reality, Ewha Womans University",
+                "VR Application development"
+            ],
+            "dateText": "07/2009 – 06/2011"
+        }
+    ]
+}

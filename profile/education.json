@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Sep 2011 - Aug 2013",
+            "cardTitle": "M.S. Computer Science, Virtual Reality (Visual Computing)",
+            "cardSubtitle":"Ewha Womans University, Seoul, South Korea",
+            "cardDetailedText": "GPA - 4.0/4.3",
+            "icon" : {
+                "src": "images/education/ewha-logo.gif"
+            }
+        },
+        {
+            "title": "Aug 2011",
+            "cardTitle": "Chinese Immersion Program",
+            "cardSubtitle":"Beijing Language and Culture University in Beijing, China",
+            "cardDetailedText": "GPA - 4.0/4.3",
+            "icon" : {
+                "src": "images/education/blcu-logo.png"
+            }
+        },
+        {
+            "title": "Mar 2009 - Aug 2011",
+            "cardTitle": "B.S. Computer Science",
+            "cardSubtitle":"Ewha Womans University, Seoul, South Korea",
+            "cardDetailedText": "GPA - 4.0/4.3",
+            "icon" : {
+                "src": "images/education/ewha-logo.gif"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/juyeonhong/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/foxromana"
+        },
+        {
+            "network" : "email",
+            "href": "hong.juyeon.korea@gmail.com"
+        }
+    ]
+}
