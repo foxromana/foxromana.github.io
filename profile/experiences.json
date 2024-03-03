@@ -20,6 +20,33 @@
             "dateText": "08/2013 – 12/2018"
         },
         {
+            "title": "International Resources Committee(IRC)",
+            "subtitle": "ACM SIGGRAPH",
+            "workType": "Volunteer",
+            "workDescription": [
+                "IRC Session organization and moderation",
+                "Local language service(Korean) - Audio guide, Translation",
+                "Mobile app development - Triviatron (SIGGRAPH 2017, 2018), Scavanger AR (SIGGRAPH 2018)"
+            ],
+            "dateText": "06/2015 – 12/2021"
+        },
+        {
+            "title": "Student Volunteer Program",
+            "subtitle": "ACM SIGGRAPH",
+            "workType": "Volunteer",
+            "workDescription": [
+                "SIGGRAPH Asia 2020 Virtual - Student Volunteers Program Chair",
+                "SIGGRAPH Asia 2019 Brisbane - Student Volunteers Program Manager",
+                "SIGGRAPH Asia 2016 Macau - Student Volunteer",
+                "SIGGRAPH Asia 2015 Kobe - Team Leader",
+                "SIGGRAPH Asia 2014 Shenzhen - Team Leader",
+                "SIGGRAPH Asia 2013 Hong Kong - Student Volunteer",
+                "SIGGRAPH 2012 LA - Student Volunteer",
+                "SIGGRAPH Asia 2011 Hong Kong - Student Volunteer"
+            ],
+            "dateText": "12/2011 – 12/2020"
+        },
+        {
             "title": "Development Intern",
             "subtitle": "CCGVR",
             "workType": "Internship",

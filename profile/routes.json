@@ -24,6 +24,11 @@
             "component": "Projects",
             "path": "/projects",
             "headerTitle": "Personal Projects"
+        },
+        {
+            "component": "Press",
+            "path": "/press",
+            "headerTitle": "Press & Media"
         }
     ]
 }

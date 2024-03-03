@@ -1,0 +1,102 @@
+{
+    "press" : [
+        {
+            "image" : "images/press/naver-interview.png",
+            "title": "MZ PICK! Y에게 선택된 BGM의 주인공은 누구? TOP 4 아티스트 인터뷰",
+            "bodyText": "Y x genie BGM 공모전의 TOP 4 BGM (2021.10) - Naver Y post",
+            "links": [   
+                {
+                    "text": "Interview",
+                    "href": "https://m.post.naver.com/viewer/postView.naver?volumeNo=32424955&memberNo=37165589"
+                }
+            ],
+            "tags" : [
+                "Fox Romana","composer", "interview"
+            ]
+        },
+        {
+            "image" : "images/press/genie-interview.png",
+            "title": "〈Y x genie BGM 공모전〉 TOP4 아티스트 인터뷰",
+            "bodyText": "Y x genie Playlist (2021.10), Part 1 선발 아티스트 Fox Romana - Genie music",
+            "links": [   
+                {
+                    "text": "Interview",
+                    "href": "http://mw.genie.co.kr/magazine/magazineView?ctid=1&mgz_seq=10896"
+                }
+            ],
+            "tags" : [
+                "Fox Romana","composer", "interview"
+            ]
+        },
+        {
+            "image" : "images/press/y-interview.png",
+            "title": "Fox Romana, 소프트웨어 엔지니어의 트렌디한 취미!",
+            "bodyText": "Y x genie BGM Contest Award Top #4 interview : Part 1 (2021.10) - Y",
+            "links": [   
+                {
+                    "text": "Interview",
+                    "href": "https://www.yspotlight.co.kr/magazine/mz_artist/detail?id=43"
+                }
+            ],
+            "tags" : [
+                "Fox Romana","composer", "interview"
+            ]
+        },
+        {
+            "image" : "images/press/woman-sv-chair.png",
+            "title": "Celebrating the Women of the SIGGRAPH Student Volunteers Program",
+            "bodyText": "Interview as a former female SIGGRAPH Asia SV chair (2021.3.16)",
+            "links": [   
+                {
+                    "text": "Interview",
+                    "href": "https://blog.siggraph.org/2021/03/celebrating-the-women-of-the-siggraph-student-volunteers-program.html/"
+                }
+            ],
+            "tags" : [
+                "ACM SIGGRAPH", "Women", "SV Program"
+            ]
+        },       
+        {
+            "image" : "images/press/sa2020.png",
+            "title": "SIGGRAPH Asia 2020 in Daegu, South Korea",
+            "bodyText": "Conference Chair Jinny Hyejin Choo & SV Chair Juyeon Hong invites you to Daegu, South Korea for SIGGRAPH Asia 2020, one of the largest conference and exhibition for computer graphics and interactive techniques in the region. If you love animation, visual effects, emerging technologies in the CG industry, you've got to be at SIGGRAPH Asia 2020!",
+            "links": [   
+                {
+                    "text": "Youtube",
+                    "href": "https://www.youtube.com/watch?v=_QbZ2AttZxQ"
+                }
+            ],
+            "tags" : [
+                "ACM SIGGRAPH", "SV Program", "Youtube"
+            ]
+        },
+        {
+            "image" : "images/press/acm-member.png",
+            "title": "ACM SIGGRPH Member Interview",
+            "bodyText": "Juyeon Hong - ACM SIGGRAPH Member Interview 2015",
+            "links": [   
+                {
+                    "text": "Profile",
+                    "href": "https://www.siggraph.org/inside-siggraph/member-profiles/profile/?member=juyeon-hong"
+                }
+            ],
+            "tags" : [
+                "ACM SIGGRAPH", "IRC"
+            ]
+        },
+        {
+            "image" : "images/press/labs-playlist08.png",
+            "title": "Spitfire Audio LABS - LABS Community Playlist 08",
+            "bodyText": "My work <Fox in Waikiki> was selected as track #02 in Spitfire Audio LABS - LABS Community Playlist 08, 2021.",
+            "links": [   
+                {
+                    "text": "Open Playlist",
+                    "href": "https://soundcloud.com/spitfire-labs/sets/labs-community-playlist-08"
+                }
+            ],
+            "tags" : [
+                "Fox Romana","composer", "nominaton"
+            ]
+        }
+    ]
+}
