@@ -15,8 +15,8 @@
         },
         {
             "image" : "images/projects/fox-romana-project.jpg",
-            "title": "Music",
-            "bodyText": "Music album released under my artist name, **Fox Romana**\n",
+            "title": "Fox Romana Music",
+            "bodyText": "Please enjoy my recent experimental musics, and released official albums\n",
             "links": [
                 {
                     "text": "Instagram",
@@ -25,10 +25,6 @@
                 {
                     "text": "Spotify",
                     "href": "https://open.spotify.com/artist/6tR6z6ay5UOCUBByO6dkSP?si=EzDEWSn7Rce-lbPgVvsN9A"
-                },
-                {
-                    "text": "Apple Music",
-                    "href": "https://music.apple.com/kr/artist/fox-romana/1612385017"
                 },
                 {
                     "text": "SoundCloud",
@@ -41,8 +37,8 @@
         },
         {
             "image" : "images/projects/fox-romana-photography.jpg",
-            "title": "Photography",
-            "bodyText": "Music album released under my artist name, **Fox Romana**\n",
+            "title": "Fox Romana Photo",
+            "bodyText": "Records of my advantures. \n",
             "links": [
                 {
                     "text": "Instagram",
