@@ -10,8 +10,7 @@
                 "C++",
                 "MFC",
                 "OpenGL",
-                "GDI+",
-                "JUCE"
+                "GDI+"
             ]
         },
         {
@@ -37,7 +36,7 @@
                 }
             ],
             "tags" : [
-                "logic Pro X"
+                "logic Pro X","piano","erhu","trumpet"
             ]
         },
         {

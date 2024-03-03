@@ -5,8 +5,16 @@
             "href": "https://www.linkedin.com/in/juyeonhong/"
         },
         {
-            "network" : "github",
-            "href": "https://github.com/foxromana"
+            "network" : "instagram",
+            "href": "https://www.instagram.com/fox.romana.music/"
+        },
+        {
+            "network" : "spotify",
+            "href": "https://open.spotify.com/artist/6tR6z6ay5UOCUBByO6dkSP?si=EzDEWSn7Rce-lbPgVvsN9A"
+        },
+        {
+            "network" : "soundcloud",
+            "href": "https://soundcloud.com/foxromana"
         },
         {
             "network" : "email",
