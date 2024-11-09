@@ -46,7 +46,7 @@
                 },
                 {
                     "text": "Map",
-                    "href": "https://visitedplaces.com/view/?map=world&projection=geoOrthographic&theme=light-blue&width=1276&height=544&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=1&autozoom=none&autostep=1&home=KR&places=My%20Home~KR.4dc9da~1_0_0_-127.9_-36.5~3cbaaf*Europe~AT_FI_FR_DE_IT_KZ_NL_RU_ES_SE_CH_TR_CZ~2.4_12.1_53.3_-12.1_-53.3~0078ef*North%20America~CA_US~1.6_-100.6_44.4_100.6_-44.4~fb00a4*Asia~CN_HK_JP_MO_MY_MN_PH_SG_TW_TH_VN~1.5_83.8_33.3_-83.8_-33.3~faac00*Oceania~AU.3aba15_GU~1.9_134.3_-25.7_-134.3_25.7"
+                    "href": "https://visitedplaces.com/view/?map=world&projection=geoOrthographic&theme=light-blue&width=1276&height=544&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=1&autozoom=none&autostep=1&home=KR&places=My%20Home~KR.4dc9da~1_0_0_-127.9_-36.5~3cbaaf*Europe~AT_FI_FR_DE_IT_KZ_NL_RU_ES_SE_CH_TR_CZ_PT_GB~2.4_12.1_53.3_-12.1_-53.3~0078ef*North%20America~CA_US~1.6_-100.6_44.4_100.6_-44.4~fb00a4*Asia~CN_HK_JP_MO_MY_MN_PH_SG_TW_TH_VN~1.5_83.8_33.3_-83.8_-33.3~faac00*Oceania~AU.3aba15_GU~1.9_134.3_-25.7_-134.3_25.7"
                 }
             ],
             "tags" : [
