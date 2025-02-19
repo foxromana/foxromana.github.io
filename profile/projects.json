@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/code-project.jpg",
             "title": "Development",
-            "bodyText": "Personal project repositories",
+            "bodyText": "Personal project repositories.(NOT ready yet)",
             "links": [
                 {
                     "text": "Fox Romana X Plugin",
@@ -55,6 +55,20 @@
             ],
             "tags" : [
                 "Leica Q","e-m5", "Lightroom", "Photoshop"
+            ]
+        },
+        {
+            "image" : "images/projects/fox-romana-canvas2.jpg",
+            "title": "Art",
+            "bodyText": "Drawings, illustration",
+            "links": [
+                {
+                    "text": "Instagram",
+                    "href": "https://www.instagram.com/fox.romana.canvas/"
+                }
+            ],
+            "tags" : [
+                "painting", "Photoshop"
             ]
         }
         
