@@ -3,14 +3,18 @@
         {
             "image" : "images/projects/code-project.jpg",
             "title": "Development",
-            "bodyText": "Coming Soon",
+            "bodyText": "Personal project repositories",
             "links": [
+                {
+                    "text": "Fox Romana X Plugin",
+                    "href": "https://github.com/foxromana/foxromanax"
+                }
             ],
             "tags" : [
                 "C++",
                 "MFC",
                 "OpenGL",
-                "GDI+"
+                "JUCE"
             ]
         },
         {
